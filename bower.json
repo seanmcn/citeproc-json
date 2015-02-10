@@ -8,7 +8,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.0.552",
-    "commit": "ecf0435da949836c63ebf048ea8b7710542e33ce"
+    "commit": "30922fec9fd60f15b58ffec3d872e2945255560a"
   },
   "_source": "git://github.com/Seanmcn/citeproc-json.git",
   "_target": "~1.0.x",
