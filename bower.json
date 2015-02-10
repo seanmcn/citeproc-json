@@ -3,6 +3,7 @@
   "version": "1.0.552",
   "main": "./citeproc.js",
   "ignore": [],
+  "dependencies": {},
   "homepage": "https://github.com/Seanmcn/citeproc-json",
   "_release": "1.0.552",
   "_resolution": {
