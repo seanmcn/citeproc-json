@@ -1,0 +1,14 @@
+{
+  "name": "Citeproc-js",
+  "version": "1.0.552",
+  "main": "./citeproc.js",
+  "ignore": [],
+  "dependencies": {
+    "<name>": "<version>",
+    "<name>": "<folder>",
+    "<name>": "<package>"
+  },
+  "devDependencies": {
+    "<test-framework-name>": "<version>"
+  }
+}
