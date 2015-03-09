@@ -2408,8 +2408,6 @@ CSL.Output.Queue.prototype.string = function (state, myblobs, blob) {
 
     for (i = 0, ilen = blobs.length; i < ilen; i += 1) {
         blobjr = blobs[i];
-        console.log(blobs);
-        console.log(blobjr);
         if (blobjr.strings.first_blob) {
             state.tmp.count_offset_characters = blobjr.strings.first_blob;
         }
