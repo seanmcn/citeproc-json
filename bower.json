@@ -1,6 +1,6 @@
 {
   "name": "citeproc-js",
-  "version": "1.0.5522",
+  "version": "1.0.6",
   "main": "./citeproc.js",
   "ignore": [],
   "dependencies": {},
