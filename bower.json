@@ -12,6 +12,6 @@
     "commit": "a34ae443470923479989814c4c0bcccd62071fe5"
   },
   "_source": "git://github.com/Seanmcn/citeproc-json.git",
-  "_target": "~1.0.x",
+  "_target": "~1.x",
   "_originalSource": "citeproc-js"
 }
