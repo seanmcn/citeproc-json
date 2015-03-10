@@ -1,15 +1,15 @@
 {
   "name": "citeproc-js",
-  "version": "1.2",
+  "version": "1.3",
   "main": "./citeproc.js",
   "ignore": [],
   "dependencies": {},
   "homepage": "https://github.com/Seanmcn/citeproc-json",
-  "_release": "1.0.5522",
+  "_release": "1.1",
   "_resolution": {
     "type": "version",
-    "tag": "v1.0.5522",
-    "commit": "a34ae443470923479989814c4c0bcccd62071fe5"
+    "tag": "v1.1",
+    "commit": "034520f49c2191b3815e4fbc932d233f7e355694"
   },
   "_source": "git://github.com/Seanmcn/citeproc-json.git",
   "_target": "~1.x",
