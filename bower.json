@@ -5,11 +5,11 @@
   "ignore": [],
   "dependencies": {},
   "homepage": "https://github.com/Seanmcn/citeproc-json",
-  "_release": "1.1",
+  "_release": "1.3",
   "_resolution": {
     "type": "version",
-    "tag": "v1.1",
-    "commit": "034520f49c2191b3815e4fbc932d233f7e355694"
+    "tag": "v1.3",
+    "commit": "5abb4d2cae9349f1c6dc0db9784647835cfa700f"
   },
   "_source": "git://github.com/Seanmcn/citeproc-json.git",
   "_target": "~1.x",
